@@ -40,5 +40,5 @@ object-position: 50% 50%;
 
 ## IMPORTANT LINKS
 
-Live Page: [Page on GitHub](https://)<br/>
-Codebase: [Repo Link for GitHub](https://)<br/>
+Live Page: [Page on GitHub](https://logeshwaran123.github.io/qr-code-component/)<br/>
+Codebase: [Repo Link for GitHub](https://github.com/Logeshwaran123/qr-code-component.git)<br/>
