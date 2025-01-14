@@ -1,0 +1,39 @@
+/* --- Mobile Screen */
+@media (max-width: 325px) {
+  /* QR Code Image */
+  .img-container {
+    max-width: 288px;
+    max-height: 288px;
+  }
+  .card-container {
+    padding: 8px;
+    padding-bottom: 16px;
+  }
+  .content {
+    margin-top: 18px;
+    padding: 0 8px;
+  }
+  h1.headline {
+    font-size: 18px;
+  }
+  p.sub-head-text {
+    font-size: 14px;
+  }
+}
+
+/* --- Smaller Screen */
+@media (max-width: 240px) {
+  .card-container {
+    padding-bottom: 18px;
+  }
+  .content {
+    margin-top: 8px;
+  }
+  h1.headline {
+    font-size: 12px;
+    margin-bottom: 8px;
+  }
+  p.sub-head-text {
+    font-size: 10px;
+  }
+}
